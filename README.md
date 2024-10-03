@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next Js and Typescript**
 
-- 👨‍💻 All of my projects are available at (https://vercel.com/masaud-ahmods-projects)]
+- 👨‍💻 All of my projects are available at https://vercel.com/masaud-ahmods-projects
 
 - 💬 Ask me about **React Js and Redux**
 
