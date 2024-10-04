@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Masaud Ahmod</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Next Js and Typescript**
+- 🌱 I’m currently learning **Full-Stack Web Development, Next Js and Typescript**
 
 - 👨‍💻 All of my projects are available at https://vercel.com/masaud-ahmods-projects
 
